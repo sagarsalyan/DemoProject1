@@ -8,7 +8,11 @@
         <App id="app">
             <pages>
                 <Page id="page" title="{i18n>title}">
-                    <content />
+                    <content>
+                    <Text id="idText" text="Sagar"/>
+                    <Text id="idText2" text="Sagar1"/>
+                    <Text id="idText3" text="Sagar3"/>
+                    </content>
                 </Page>
             </pages>
         </App>
